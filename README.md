@@ -11,7 +11,7 @@
 
 - 💻 I'm currently working on developing my portfolio - [Prem Rajasekaran Portfolio](https://premrs.github.io)
 
-- 🌱 I’m currently learning **NextJS, Vue and UX/UI**
+- 🌱 I’m currently learning **NextJS, Vue and UI/UX**
 
 - 📫 Reach out to me via **premr3997@gmail.com**
 
