@@ -3,7 +3,7 @@
 
 <p align="right">  
   <a href ="https://github.com/PremRS"> 
-    <img src="https://komarev.com/ghpvc/?username=premrs&color=brightgreen&style=for-the-badge" alt="prem rajasekaran" /> 
+    <img src="https://komarev.com/ghpvc/?username=premrs&color=brightgreen&style=for-the-badge" alt="" /> 
   </a>
 </p>
 
